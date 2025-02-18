@@ -116,4 +116,4 @@ The Flask web app allows users to **input student details** and get a **predicte
 
 ---
 
-🔗 **Developed with ❤️ by Bhavyalikhitha**  
+🔗 **Happy Coding and learning ❤️**  
